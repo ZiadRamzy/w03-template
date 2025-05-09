@@ -2,7 +2,7 @@
     // TODO add imports and props here here
     import Icon from "@iconify/svelte";
     import type { Meal } from '$lib/types';
-    Client logic
+    
     let { meal }: { meal: Meal } = $props();
 </script>
 
